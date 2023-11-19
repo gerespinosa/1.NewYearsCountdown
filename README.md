@@ -1,4 +1,4 @@
-# 1.NewYearsCountdown
+100DaysOfJS | 1.NewYearsCountdown
 
 First of the "100DaysOfJS" test.  
 
